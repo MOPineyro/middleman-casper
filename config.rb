@@ -32,12 +32,12 @@ activate :blog do |blog|
 end
 
 # Required
-set :blog_url, 'http://www.example.com'
-set :blog_name, 'Middleman'
-set :blog_description, 'Makes developing websites simple.'
-set :author_name, 'Middleman'
-set :author_bio, 'Middleman is a static site generator using all the ' \
-                 'shortcuts and tools in modern web development.'
+set :blog_url, 'http://www.mopstateofmind.com'
+set :blog_name, 'MOP State of Mind'
+set :blog_description, 'Coming Soon.'
+set :author_name, 'MOP'
+# set :author_bio, 'Middleman is a static site generator using all the ' \
+#                  'shortcuts and tools in modern web development.'
 # Optional
 set :author_locaton, nil
 set :author_website, nil

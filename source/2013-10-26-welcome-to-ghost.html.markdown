@@ -1,14 +1,12 @@
 ---
-title: Welcome to Ghost
-date: 2013-10-26
-tags: Getting Started
+title: Welcome
+date: 2014-12-01
+tags: Intro
 ---
 
-You're in! Nice. We've put together a little post to introduce you to the Ghost
-editor and get you started. Go ahead and edit this post to get going and learn
-how it all works!
+There will be more here soon. In the mean time check out my [GitHub](http://github.com/mopineyro)
 
-## Getting Started
+<!-- ## Getting Started
 
 Writing in markdown is really easy. In the left hand panel of Ghost, you simply
 write as you normally would. Where appropriate, you can use _formatting_
@@ -79,4 +77,4 @@ old HTML and it'll still work! Very flexible.
 <input type="text" placeholder="I'm an input field!">
 
 That should be enough to get you started. Have fun - and let us know what you
-think :)
+think :) -->
