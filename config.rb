@@ -36,8 +36,7 @@ set :blog_url, 'http://www.mopstateofmind.com'
 set :blog_name, 'MOP State of Mind'
 set :blog_description, 'Coming Soon.'
 set :author_name, 'MOP'
-# set :author_bio, 'Middleman is a static site generator using all the ' \
-#                  'shortcuts and tools in modern web development.'
+set :author_bio, 'MOP State of Mind'
 # Optional
 set :author_locaton, nil
 set :author_website, nil
